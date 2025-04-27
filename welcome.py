@@ -8,3 +8,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
     text()
        print('method')
+       print('for c1')
+       
