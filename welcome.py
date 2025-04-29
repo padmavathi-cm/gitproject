@@ -11,7 +11,5 @@ Type "help", "copyright", "credits" or "license()" for more information.
        print('for c1')
        print('for d1')
        
-    conflit()
-       print('for branch x')
-       
-       
+    conflict()
+    print('branch x')
